@@ -158,7 +158,7 @@ $front_legends = [];
 $front_print_legends = false;
 
 // how recessed inset legends / artisans are from the top of the key
-$inset_legend_depth = 0.2;
+$inset_legend_depth = 0.6;
 
 // Dimensions of alps stem
 $alps_stem = [4.45, 2.25];
